@@ -42,6 +42,9 @@
 ### Design Patterns
 #### package com.design.patterns;
 
+### Creational
+#### 1.Singleton
+
 
 ### UML Diagrams
 #### package com.design.uml;
